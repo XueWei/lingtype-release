@@ -5,7 +5,7 @@ This repository stores official release builds for LingType.
 ## Current Available Build
 - Latest release: `v0.2.1`
 - macOS universal build (Apple Silicon and Intel)
-- Installer formats: `.pkg` and `.zip`
+- Installer format: `.pkg`
 
 ## Download
 Please download from the [Releases](../../releases) page.
@@ -16,7 +16,7 @@ Please download from the [Releases](../../releases) page.
 3. Follow the setup instructions
 
 ## Notes
-- macOS is currently supported through the universal installer package and release zip
+- macOS is currently supported through the universal installer package
 - Windows and Linux builds are not available yet
 
 ## Support

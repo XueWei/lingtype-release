@@ -1,4 +1,3 @@
 549100a242088f3d75f02991530f417cd6b2c5fcc9912cdd0ed6caebcde42930  LingType-0.2.1-macos-universal.pkg
-7706a9d57bfbc321e8c0886c52665575924ab342db7f08bcb31157b7746ee63d  LingType-MacOS-0.2.1.zip
 3fda4eb7ffac24bf04e362988bc7b6f522d9a895090254fa4e92d710f7dfc288  LingType-0.2.0-macos-universal.pkg
 ec120e4404a3cf5a89663c22a8b529ec438a65b3b81a9b2d8d1360647d1735fa  LingType-MacOS-0.2.0.zip
