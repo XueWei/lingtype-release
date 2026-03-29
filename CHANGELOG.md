@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.1
+- Refine the macOS About window so it opens in a compact About-only presentation.
+- Keep the full sidebar layout when opening the Preferences window.
+- Ship updated macOS universal installer package and release zip.
+
 ## v0.2.0
 - Add pre-commit Chinese-to-English translation mode on macOS.
 - Refresh translation panel UI and status bar/app icon assets.
