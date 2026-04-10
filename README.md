@@ -1,6 +1,6 @@
-# LingType Release Metadata
+# LingType Releases
 
-This repository stores release metadata for LingType.
+This repository is the official release hub for LingType.
 
 ## Current Available Build
 - Latest release: `v0.2.3`
@@ -8,7 +8,7 @@ This repository stores release metadata for LingType.
 - Installer format: `.pkg`
 
 ## Download
-Please download binaries from the main [LingType releases](https://github.com/XueWei/lingtype/releases) page.
+Please download binaries from the [Releases](../../releases) page in this repository.
 
 ## Installation
 1. Download the `.pkg` installer
@@ -16,7 +16,8 @@ Please download binaries from the main [LingType releases](https://github.com/Xu
 3. Follow the setup instructions
 
 ## Notes
-- This repository tracks release notes and checksums only; do not use it as the app's update source
+- This repository is the app update source used by LingType macOS update checks
+- Source code and build logic live in separate project repositories
 - macOS is currently supported through the universal installer package
 - Windows and Linux builds are not available yet
 
