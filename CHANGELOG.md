@@ -3,7 +3,7 @@
 ## v0.2.3
 - Modernize the macOS candidate window with a tighter native-style layout and clearer mode/status treatment.
 - Refresh the macOS Preferences UI with more consistent System Settings-style sections, controls, and previews.
-- Ship updated macOS universal installer package and release zip.
+- Ship updated macOS universal installer package.
 
 ## v0.2.2
 - Refactor translation engine with IPC architecture for improved stability.
