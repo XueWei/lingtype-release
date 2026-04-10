@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.2
+- Refactor translation engine with IPC architecture for improved stability.
+- Fix translation and UI issues on macOS 26.x.
+- Ship updated macOS universal installer package and release zip.
+
 ## v0.2.1
 - Refine the macOS About window so it opens in a compact About-only presentation.
 - Keep the full sidebar layout when opening the Preferences window.
