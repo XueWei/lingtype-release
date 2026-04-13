@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.2.5
+- Fix incorrect pinyin mappings in the dictionary.
+- Fix upgrade checking: improve update-check logic and preferences UI.
+- Ship updated macOS universal installer package and release zip.
+
+## v0.2.4
+- Fix macOS update-check URL to point at lingtype-release.
+- Fix macOS packaging paths.
+- Ship updated macOS universal installer package.
+
 ## v0.2.3
 - Modernize the macOS candidate window with a tighter native-style layout and clearer mode/status treatment.
 - Refresh the macOS Preferences UI with more consistent System Settings-style sections, controls, and previews.
